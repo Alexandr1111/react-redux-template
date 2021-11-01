@@ -1,6 +1,6 @@
 {
   "homepage": "https://alexandr1111.github.io/react-redux-template/",
-  "name": "test-app",
+  "name": "react-redux-template",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
